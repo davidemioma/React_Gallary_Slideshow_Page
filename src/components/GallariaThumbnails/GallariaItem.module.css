@@ -1,0 +1,26 @@
+.item {
+  position: relative;
+}
+
+.item img {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+}
+
+.item span {
+  padding: 0 0 1rem 1rem;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  color: #fff;
+}
+
+.item span h1,
+.item span p {
+  text-transform: capitalize;
+}
+
+.item span p {
+  opacity: 0.7;
+}

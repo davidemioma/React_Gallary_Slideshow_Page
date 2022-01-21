@@ -1,0 +1,33 @@
+.bar {
+  margin-top: 15rem;
+  width: 100vw;
+  height: 2px;
+  background-color: lightgray;
+}
+
+.bar div {
+  height: 2px;
+  background-color: darkblue;
+}
+
+.details {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.names h3,
+.names p {
+  text-transform: capitalize;
+}
+
+.controls {
+  display: flex;
+  gap: 1.5rem;
+}
+
+.controls button {
+  background: none;
+  border: none;
+  outline: none;
+}
