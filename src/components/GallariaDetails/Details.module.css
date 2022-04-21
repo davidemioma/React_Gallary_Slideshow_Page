@@ -52,6 +52,7 @@
   outline: 0;
   text-transform: uppercase;
   letter-spacing: 1px;
+  cursor: pointer;
 }
 
 .title {

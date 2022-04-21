@@ -1,5 +1,5 @@
 .bar {
-  margin-top: 15rem;
+  margin-top: 10rem;
   width: 100vw;
   height: 2px;
   background-color: lightgray;
@@ -30,4 +30,5 @@
   background: none;
   border: none;
   outline: none;
+  cursor: pointer;
 }
